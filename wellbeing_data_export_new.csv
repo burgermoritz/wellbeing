@@ -1,0 +1,1616 @@
+ID;date;device;type;os;category;superCategory;time_spent;frequency
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;3120;2
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1920;10
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1620;17
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;780;16
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;Video;Entertainment;420;1
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;News;Entertainment;60;2
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;180;8
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;120;3
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;120;1
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;10
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;Delivery;Other;120;12
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;System;Other;60;6
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;app;ios;Sport;Other;120;4
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;website;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;website;ios;Web Browser / Search Machine ;Other;240;1
+hwyr5z1l;2023-04-24 00:00:00+00:00;phone;website;ios;News;Entertainment;180;1
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;4980;10
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Video;Entertainment;1440;2
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1140;30
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;420;8
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;6
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Mobility;Other;240;10
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;180;11
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;System;Other;180;3
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Delivery;Other;120;6
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;2
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Food;Other;120;4
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;3
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;2
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;3
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;website;ios;Shopping ;Entertainment;960;1
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;website;ios;Web Browser / Search Machine ;Other;900;1
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;website;ios;Shopping ;Entertainment;300;1
+hwyr5z1l;2023-04-25 00:00:00+00:00;phone;website;ios;Shopping ;Entertainment;240;1
+hwyr5z1l;2023-04-25 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;6180;2
+hwyr5z1l;2023-04-25 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;240;1
+hwyr5z1l;2023-04-25 00:00:00+00:00;tablet;app;ios;System;Other;180;1
+hwyr5z1l;2023-04-25 00:00:00+00:00;tablet;website;ios;Study / Learning;Study / Work ICT;60;1
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;8
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Mobility;Other;240;9
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Photos;Entertainment;180;3
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;120;1
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;2
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;4
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;1
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;System;Other;60;3
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Sport;Other;60;6
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Food;Other;60;2
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;4
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;website;ios;Food;Other;660;1
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;website;ios;Web Browser / Search Machine ;Other;540;1
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;website;ios;Shopping ;Entertainment;600;1
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;website;ios;News;Entertainment;240;1
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3480;21
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Video;Entertainment;1680;1
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1080;14
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;840;15
+hwyr5z1l;2023-04-26 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;540;23
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2040;17
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Video;Entertainment;1140;1
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;720;18
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;300;1
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Mobility;Other;420;17
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;300;22
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;9
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;180;1
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Sport;Other;180;1
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Navigation;Other;120;2
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;8
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;120;2
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;1
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Food;Other;60;5
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;website;ios;News;Entertainment;360;1
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;website;ios;Web Browser / Search Machine ;Other;180;1
+hwyr5z1l;2023-04-27 00:00:00+00:00;phone;website;ios;Social Media;Social Media;60;1
+hwyr5z1l;2023-04-27 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;10380;5
+hwyr5z1l;2023-04-27 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;4620;1
+hwyr5z1l;2023-04-27 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;180;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Video;Entertainment;2520;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2580;16
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;960;9
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;900;13
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Sport;Other;660;21
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;News;Entertainment;540;20
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;480;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;420;14
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Social Media;Social Media;360;6
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Mobility;Other;300;14
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;240;7
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;3
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Sport;Other;120;3
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Photos;Entertainment;120;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Sport;Other;60;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;60;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Sport;Other;60;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;website;ios;Delivery;Other;420;1
+hwyr5z1l;2023-04-28 00:00:00+00:00;phone;website;ios;Shopping ;Entertainment;360;1
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Video;Entertainment;4020;
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2400;13
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;960;24
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;900;24
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Mobility;Other;360;14
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;10
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;300;1
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Social Media;Social Media;240;1
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;180;1
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;180;9
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;System;Other;120;1
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;3
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;1
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Sport;Other;120;3
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;4
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Photos;Entertainment;60;4
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Sport;Other;60;1
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;app;ios;Food;Other;240;12
+hwyr5z1l;2023-04-29 00:00:00+00:00;phone;website;ios;News;Entertainment;420;1
+hwyr5z1l;2023-04-29 00:00:00+00:00;tablet;app;ios;Video;Entertainment;2820;1
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;Video;Entertainment;5940;4
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;4200;21
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;2340;1
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;660;9
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;540;11
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;480;30
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;420;1
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;420;1
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;Sport;Other;300;6
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;240;1
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;System;Other;240;3
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;News;Entertainment;60;1
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;2
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;website;ios;News;Entertainment;1200;1
+hwyr5z1l;2023-04-30 00:00:00+00:00;phone;website;ios;Web Browser / Search Machine ;Other;480;1
+hwyr5z1l;2023-04-30 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;8520;1
+hwyr5z1l;2023-04-30 00:00:00+00:00;tablet;app;ios;Video;Entertainment;5820;3
+hwyr5z1l;2023-04-30 00:00:00+00:00;tablet;app;ios;Video;Entertainment;4260;1
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1560;33
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;1440;49
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;Mobility;Other;540;28
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;Mobility;Other;480;3
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;420;13
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;Social Media;Social Media;300;8
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;10
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;Finance;Other;180;7
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;120;4
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;System;Other;120;2
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;System;Other;60;3
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;3
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;60;1
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;website;ios;Sport;Other;420;1
+hwyr5z1l;2023-05-01 00:00:00+00:00;phone;website;ios;Food;Other;300;1
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Video;Entertainment;9060;8
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2280;18
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1260;23
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;1020;39
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Mobility;Other;780;27
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;540;3
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Mobility;Other;300;1
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;3
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;180;3
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Food;Other;120;7
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;1
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;4
+hwyr5z1l;2023-05-02 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-02 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;4140;2
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2520;9
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Mobility;Other;1020;34
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;480;23
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;360;10
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;4
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Social Media;Social Media;240;2
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;3
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Mobility;Other;180;1
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Social Media;Social Media;180;1
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Navigation;Other;120;2
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Navigation;Other;120;1
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;1
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Sport;Other;120;1
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;60;1
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Video;Entertainment;60;1
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Mobility;Other;60;4
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Food;Other;60;2
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;News;Entertainment;60;5
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Mobility;Other;120;2
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;app;ios;Mobility;Other;60;4
+hwyr5z1l;2023-05-03 00:00:00+00:00;phone;website;ios;Web Browser / Search Machine ;Other;540;
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3360;13
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Video;Entertainment;2580;1
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;960;25
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;960;34
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;System;Other;840;8
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Mobility;Other;840;24
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;420;12
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Social Media;Social Media;420;1
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Social Media;Social Media;360;5
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Social Media;Social Media;360;6
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Photos;Entertainment;360;7
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;240;5
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;180;1
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Food;Other;180;4
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;System;Other;180;3
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;60;1
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;2
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-05-04 00:00:00+00:00;phone;app;ios;System;Other;180;1
+hwyr5z1l;2023-05-04 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;9840;3
+hwyr5z1l;2023-05-04 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;2460;1
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Navigation;Other;2100;3
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1380;15
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;900;27
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Video;Entertainment;600;1
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;540;27
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Food;Other;360;7
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;8
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Mobility;Other;240;9
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;240;5
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;240;1
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;System;Other;120;4
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Mobility;Other;60;5
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;News;Entertainment;60;4
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;1
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-05-05 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;System;Other;4140;7
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1140;15
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1080;7
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;System;Other;1080;1
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;660;1
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;600;28
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Mobility;Other;540;9
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;360;7
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Sport;Other;300;1
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;3
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;120;11
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;3
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Video;Entertainment;60;1
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;2
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Photos;Entertainment;60;1
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;4
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Food;Other;60;1
+hwyr5z1l;2023-05-06 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-05-06 00:00:00+00:00;tablet;app;ios;Video;Entertainment;4620;1
+hwyr5z1l;2023-05-06 00:00:00+00:00;tablet;app;ios;System;Other;840;10
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Video;Entertainment;3300;7
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Navigation;Other;1320;2
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;960;7
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;System;Other;960;1
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;360;13
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;300;16
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;300;9
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Navigation;Other;240;1
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;2
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;3
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Mobility;Other;60;3
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Sport;Other;60;4
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;3
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;4
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;3
+hwyr5z1l;2023-05-07 00:00:00+00:00;phone;app;ios;Mobility;Other;60;5
+hwyr5z1l;2023-05-07 00:00:00+00:00;tablet;app;ios;Video;Entertainment;4260;1
+hwyr5z1l;2023-05-08 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2400;18
+hwyr5z1l;2023-05-08 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1800;14
+hwyr5z1l;2023-05-08 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;660;8
+hwyr5z1l;2023-05-08 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;600;14
+hwyr5z1l;2023-05-08 00:00:00+00:00;phone;app;ios;System;Other;600;4
+hwyr5z1l;2023-05-08 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;7
+hwyr5z1l;2023-05-08 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;240;2
+hwyr5z1l;2023-05-08 00:00:00+00:00;phone;app;ios;Mobility;Other;240;11
+hwyr5z1l;2023-05-08 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-05-08 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-08 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-05-08 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;3
+hwyr5z1l;2023-05-08 00:00:00+00:00;tablet;app;ios;Shopping ;Entertainment;240;1
+hwyr5z1l;2023-05-08 00:00:00+00:00;tablet;app;ios;System;Other;240;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;4080;17
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;2340;38
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;1080;16
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;System;Other;900;2
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Mobility;Other;540;20
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;180;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Video;Entertainment;180;2
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;3
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;System;Other;180;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Delivery;Other;60;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;180;3
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Food;Other;60;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;app;ios;News;Entertainment;60;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;website;ios;News;Entertainment;840;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;website;ios;Web Browser / Search Machine ;Other;600;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;website;ios;Shopping ;Entertainment;480;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;phone;website;ios;News;Entertainment;300;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;11400;7
+hwyr5z1l;2023-05-09 00:00:00+00:00;tablet;app;ios;Video;Entertainment;3000;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;tablet;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-09 00:00:00+00:00;tablet;app;ios;News;Entertainment;60;1
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;2700;31
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1920;21
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;960;11
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;420;7
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;360;10
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;240;1
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;4
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;System;Other;180;4
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Mobility;Other;120;3
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Delivery;Other;120;10
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;120;1
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Mobility;Other;60;2
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;News;Entertainment;60;3
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Sport;Other;60;1
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;60;3
+hwyr5z1l;2023-05-10 00:00:00+00:00;phone;app;ios;Work;Study / Work ICT;60;4
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;2040;36
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1320;8
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1020;22
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;System;Other;660;2
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;600;6
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;420;4
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Sport;Other;540;1
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Social Media;Social Media;360;9
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Mobility;Other;300;13
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;6
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;240;4
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;7
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;System;Other;60;6
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;60;1
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Navigation;Other;60;2
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Delivery;Other;60;3
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;Food;Other;60;3
+hwyr5z1l;2023-05-11 00:00:00+00:00;phone;app;ios;News;Entertainment;60;1
+hwyr5z1l;2023-05-11 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;16680;4
+hwyr5z1l;2023-05-11 00:00:00+00:00;tablet;app;ios;System;Other;1200;2
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3180;29
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;1620;46
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;660;12
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;480;8
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Video;Entertainment;300;1
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;System;Other;240;4
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Social Media;Social Media;240;7
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;10
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;180;6
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;System;Other;180;1
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Photos;Entertainment;180;8
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;System;Other;120;4
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;7
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;System;Other;120;9
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;60;1
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;News;Entertainment;60;3
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Sport;Other;60;3
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Work;Study / Work ICT;60;4
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;3
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Navigation;Other;60;1
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-05-12 00:00:00+00:00;phone;app;ios;Finance;Other;120;1
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3480;24
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Food;Other;900;1
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;660;3
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;System;Other;540;4
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Photos;Entertainment;480;3
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;360;16
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;System;Other;300;4
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;180;4
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;4
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;120;2
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Finance;Other;120;2
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;2
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Navigation;Other;60;2
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Sport;Other;60;1
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Navigation;Other;60;2
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Sport;Other;60;2
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;60;1
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;1
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;News;Entertainment;60;2
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Delivery;Other;60;4
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;News;Entertainment;60;1
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Reading / Books;Entertainment;660;2
+hwyr5z1l;2023-05-13 00:00:00+00:00;phone;app;ios;Reading / Books;Entertainment;720;1
+hwyr5z1l;2023-05-13 00:00:00+00:00;tablet;app;ios;Notes;Study / Work ICT;3240;1
+hwyr5z1l;2023-05-13 00:00:00+00:00;tablet;app;ios;Reading / Books;Entertainment;960;1
+hwyr5z1l;2023-05-13 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;840;1
+hwyr5z1l;2023-05-13 00:00:00+00:00;tablet;app;ios;Shopping ;Entertainment;240;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;5460;24
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;System;Other;1080;2
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;420;5
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;2
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;360;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Food;Other;360;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;300;13
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;240;4
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;2
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Navigation;Other;180;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Navigation;Other;180;3
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Sport;Other;180;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;2
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;4
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;2
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Photos;Entertainment;120;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Sport;Other;60;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;60;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Sport;Other;60;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;180;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;1320;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;tablet;app;ios;System;Other;240;1
+hwyr5z1l;2023-05-14 00:00:00+00:00;tablet;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1920;14
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;1620;4
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1380;4
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1080;17
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Video;Entertainment;900;1
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;480;17
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;420;26
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;240;7
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Mobility;Other;120;3
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;5
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;Delivery;Other;60;3
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-05-15 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3360;15
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1860;28
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;1440;35
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;System;Other;840;2
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Mobility;Other;780;28
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;600;27
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;540;4
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Delivery;Other;480;10
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;480;3
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;420;1
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;240;2
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;System;Other;240;1
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;System;Other;240;1
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;180;1
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Food;Other;180;5
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;1
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;System;Other;120;5
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;120;3
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Video;Entertainment;120;1
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;4
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Navigation;Other;120;1
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-16 00:00:00+00:00;phone;app;ios;Navigation;Other;60;1
+hwyr5z1l;2023-05-16 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;7380;6
+hwyr5z1l;2023-05-16 00:00:00+00:00;tablet;app;ios;Video;Entertainment;840;1
+hwyr5z1l;2023-05-16 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;180;2
+hwyr5z1l;2023-05-16 00:00:00+00:00;tablet;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1500;18
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;780;19
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;600;14
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;600;26
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Delivery;Other;600;20
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Food;Other;540;7
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;540;16
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Mobility;Other;360;7
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Video;Entertainment;300;1
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Social Media;Social Media;180;1
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;4
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Photos;Entertainment;180;4
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Sport;Other;120;1
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;2
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-05-17 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;7140;34
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1260;20
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;840;16
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;780;1
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;780;5
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Video;Entertainment;660;1
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;360;1
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;300;3
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Mobility;Other;240;8
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;System;Other;240;1
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Navigation;Other;120;1
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;120;3
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;4
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;System;Other;60;8
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Navigation;Other;60;1
+hwyr5z1l;2023-05-18 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;4
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3180;13
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Video;Entertainment;3000;1
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1020;38
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;720;1
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;660;30
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;System;Other;600;17
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Photos;Entertainment;480;4
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Navigation;Other;240;1
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Social Media;Social Media;420;1
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;6
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;System;Other;180;2
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;180;1
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;3
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;3
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;120;7
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;System;Other;120;1
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;System;Other;60;9
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Work;Study / Work ICT;60;1
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-05-19 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-20 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2100;12
+hwyr5z1l;2023-05-20 00:00:00+00:00;phone;app;ios;Food;Other;600;3
+hwyr5z1l;2023-05-20 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;600;38
+hwyr5z1l;2023-05-20 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;4
+hwyr5z1l;2023-05-20 00:00:00+00:00;phone;app;ios;Photos;Entertainment;240;4
+hwyr5z1l;2023-05-20 00:00:00+00:00;phone;app;ios;Sport;Other;180;1
+hwyr5z1l;2023-05-20 00:00:00+00:00;phone;app;ios;System;Other;120;10
+hwyr5z1l;2023-05-20 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;120;1
+hwyr5z1l;2023-05-20 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;2
+hwyr5z1l;2023-05-20 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;2
+hwyr5z1l;2023-05-20 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;3
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3660;23
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Real Estate;Other;1080;4
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Video;Entertainment;660;1
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Sport;Other;540;2
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;480;1
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;6
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;300;1
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;180;10
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;1
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Sport;Other;180;1
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Reading / Books;Entertainment;120;1
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Photos;Entertainment;60;1
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;2
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;Sport;Other;60;1
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;System;Other;60;3
+hwyr5z1l;2023-05-21 00:00:00+00:00;phone;app;ios;News;Entertainment;60;4
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2160;22
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1320;25
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;600;21
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;9
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;300;7
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;Finance;Other;240;1
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;240;1
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;Video;Entertainment;120;1
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;System;Other;120;3
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;5
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;News;Entertainment;60;1
+hwyr5z1l;2023-05-22 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;60;1
+hwyr5z1l;2023-05-22 00:00:00+00:00;tablet;app;ios;Video;Entertainment;540;1
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;4980;16
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Real Estate;Other;1320;1
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;2
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;540;25
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Mobility;Other;480;12
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;420;10
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Video;Entertainment;300;1
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;240;1
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;180;4
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;System;Other;120;3
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;60;2
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;3
+hwyr5z1l;2023-05-23 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;420;8
+hwyr5z1l;2023-05-23 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;720;1
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3240;18
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;720;22
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Food;Other;540;5
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;480;25
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;360;12
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;9
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Mobility;Other;300;6
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Navigation;Other;180;8
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;7
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Mobility;Other;180;3
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;8
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Mobility;Other;120;6
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Navigation;Other;120;5
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Sport;Other;120;1
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;2
+hwyr5z1l;2023-05-24 00:00:00+00:00;phone;app;ios;News;Entertainment;60;6
+hwyr5z1l;2023-05-24 00:00:00+00:00;tablet;app;ios;Video;Entertainment;1680;1
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2760;14
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Video;Entertainment;1140;1
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1020;22
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Photos;Entertainment;600;9
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Mobility;Other;480;22
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;480;27
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Delivery;Other;360;4
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;300;3
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Sport;Other;180;3
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;2
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;1
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;4
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;News;Entertainment;60;4
+hwyr5z1l;2023-05-25 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-05-25 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;8940;2
+hwyr5z1l;2023-05-25 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;3540;1
+hwyr5z1l;2023-05-25 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;360;1
+hwyr5z1l;2023-05-25 00:00:00+00:00;tablet;app;ios;Video;Entertainment;360;1
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2160;14
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1320;18
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;900;16
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;780;5
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;Mobility;Other;780;28
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;Mobility;Other;540;13
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;Photos;Entertainment;420;6
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;300;9
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;System;Other;300;6
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;News;Entertainment;300;14
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;240;7
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;Social Media;Social Media;240;1
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;System;Other;60;7
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;60;1
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;Navigation;Other;60;1
+hwyr5z1l;2023-05-26 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;2
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;System;Other;60;4
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;960;9
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;5100;32
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;660;22
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;600;6
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Mobility;Other;540;11
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;540;11
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Photos;Entertainment;360;4
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;360;6
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;300;7
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;2
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Mobility;Other;240;3
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Social Media;Social Media;180;4
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;9
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Sport;Other;120;4
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Finance;Other;120;1
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;120;1
+hwyr5z1l;2023-05-27 00:00:00+00:00;phone;app;ios;Navigation;Other;120;1
+hwyr5z1l;2023-05-28 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2400;16
+hwyr5z1l;2023-05-28 00:00:00+00:00;phone;app;ios;News;Entertainment;360;8
+hwyr5z1l;2023-05-28 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;300;18
+hwyr5z1l;2023-05-28 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-05-28 00:00:00+00:00;phone;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-05-28 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;60;1
+hwyr5z1l;2023-05-28 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-05-28 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;4740;24
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Video;Entertainment;4320;8
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;1440;5
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;840;2
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;600;20
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;540;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;480;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;420;3
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;360;3
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;System;Other;360;6
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;7
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Photos;Entertainment;240;5
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;4
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;240;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;180;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;System;Other;120;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;News;Entertainment;120;3
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Mobility;Other;120;7
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Sport;Other;60;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Delivery;Other;60;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;3
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;System;Other;60;4
+hwyr5z1l;2023-05-29 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;540;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;420;1
+hwyr5z1l;2023-05-29 00:00:00+00:00;tablet;app;ios;Photos;Entertainment;60;2
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;6600;7
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3600;17
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;2820;1
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;1380;18
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;780;17
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;660;38
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;600;1
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Social Media;Social Media;540;5
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;System;Other;420;9
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;300;4
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;300;3
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Mobility;Other;300;9
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;180;1
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Food;Other;180;3
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Finance;Other;120;1
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;120;4
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Video;Entertainment;120;1
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;120;1
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;3
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Food;Other;60;1
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-05-30 00:00:00+00:00;phone;app;ios;Delivery;Other;60;5
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Video;Entertainment;4320;4
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2340;5
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;1260;1
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;1260;18
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;780;22
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;540;11
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Photos;Entertainment;480;12
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;420;1
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;300;1
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;2
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;System;Other;240;17
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Delivery;Other;180;12
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Mobility;Other;180;3
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;180;1
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;1
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Mobility;Other;120;6
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Mobility;Other;60;5
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Work;Study / Work ICT;60;7
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-05-31 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;2
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;60;1
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Food;Other;60;1
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Video;Entertainment;6480;7
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2940;12
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;1080;1
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1080;20
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Social Media;Social Media;1020;15
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;900;1
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;660;16
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;420;8
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;300;1
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;9
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;240;1
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;240;10
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Mobility;Other;180;8
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;180;2
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;System;Other;120;1
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;1
+hwyr5z1l;2023-06-01 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-06-01 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;8700;4
+hwyr5z1l;2023-06-01 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;300;1
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Video;Entertainment;4920;3
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;2100;17
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1860;15
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;1080;1
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1020;28
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;720;13
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;600;6
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;480;11
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Mobility;Other;240;7
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;240;1
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;120;1
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Mobility;Other;120;7
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;60;4
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Delivery;Other;60;1
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Mobility;Other;60;6
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;Food;Other;60;1
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;News;Entertainment;60;5
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-06-02 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Video;Entertainment;7020;2
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2520;8
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Translation;Other;1380;1
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;960;34
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;600;14
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;600;11
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;600;1
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;540;1
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Mobility;Other;540;22
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;480;1
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;360;1
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;180;8
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Social Media;Social Media;180;3
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;System;Other;180;4
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Social Media;Social Media;180;3
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;2
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Navigation;Other;60;2
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Mobility;Other;60;3
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-06-03 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;420;1
+hwyr5z1l;2023-06-03 00:00:00+00:00;tablet;app;ios;Video;Entertainment;4380;1
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;4080;11
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;2340;8
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Video;Entertainment;2220;2
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;2100;9
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;System;Other;1680;1
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Video;Entertainment;1080;5
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;1080;17
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;900;17
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;840;12
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;5
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Mobility;Other;240;7
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;180;1
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Social Media;Social Media;180;2
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;180;1
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;120;1
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;1
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-06-04 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-06-04 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;120;1
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3540;22
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;3360;46
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;960;10
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Navigation;Other;900;5
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Navigation;Other;720;2
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;540;14
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Mobility;Other;480;7
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;180;1
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;180;1
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;120;1
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Mobility;Other;120;2
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;3
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;60;8
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;System;Other;60;3
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-06-05 00:00:00+00:00;phone;app;ios;Finance;Other;60;2
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Video;Entertainment;7920;2
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3000;24
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Food;Other;1080;15
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;660;13
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Mobility;Other;480;24
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;7
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;180;13
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Navigation;Other;180;6
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;180;8
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;180;7
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Photos;Entertainment;120;5
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Mobility;Other;120;1
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Real Estate;Other;60;1
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-06-06 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;5
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Video;Entertainment;4380;1
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Video;Entertainment;2940;4
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2160;4
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1620;30
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;660;7
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;5
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;360;1
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;300;1
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;240;1
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;180;12
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Mobility;Other;180;4
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;180;1
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;4
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;2
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;60;4
+hwyr5z1l;2023-06-07 00:00:00+00:00;phone;app;ios;Food;Other;60;2
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;Video;Entertainment;7860;2
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;Video;Entertainment;2880;2
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2520;19
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;1740;1
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;Photos;Entertainment;1200;10
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;600;11
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;420;9
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;360;1
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;System;Other;300;1
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;120;2
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;2
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;60;2
+hwyr5z1l;2023-06-08 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3060;17
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Video;Entertainment;2820;1
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Video;Entertainment;1680;1
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;1320;41
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1020;24
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;600;17
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;420;1
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;240;5
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;6
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Mobility;Other;180;10
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;120;1
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;60;5
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;System;Other;60;4
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;1
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Food;Other;60;1
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;3
+hwyr5z1l;2023-06-09 00:00:00+00:00;phone;app;ios;Navigation;Other;60;1
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;4920;17
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;3360;4
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;System;Other;2940;10
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Food;Other;1500;5
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Video;Entertainment;1140;1
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1140;24
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Vacation / Free Time / Events;Other;1020;1
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Video;Entertainment;900;1
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;5
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;300;11
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Mobility;Other;300;17
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;5
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;120;2
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Navigation;Other;120;1
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;120;1
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;News;Entertainment;60;4
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-06-10 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-06-10 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;60;2
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;5460;28
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;4260;21
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Video;Entertainment;3540;2
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1080;1
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Video;Entertainment;480;4
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;System;Other;360;1
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;360;1
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;4
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Navigation;Other;240;5
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;4
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;180;4
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Photos;Entertainment;180;1
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;4
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Navigation;Other;120;2
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;4
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;System;Other;60;3
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Video;Entertainment;60;1
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;1
+hwyr5z1l;2023-06-11 00:00:00+00:00;phone;app;ios;Food;Other;60;1
+hwyr5z1l;2023-06-11 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;300;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3360;7
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Video;Entertainment;1380;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;420;7
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;540;12
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;480;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;480;33
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;180;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;180;2
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Navigation;Other;180;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Social Media;Social Media;180;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Mobility;Other;180;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;120;7
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Photos;Entertainment;60;1
+hwyr5z1l;2023-06-12 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;900;3
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2220;20
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;1620;1
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Video;Entertainment;1320;1
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;960;4
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;960;18
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;960;50
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;420;3
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;360;20
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;11
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Photos;Entertainment;360;4
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;News;Entertainment;300;11
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;120;1
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Mobility;Other;120;3
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;2
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;System;Other;60;4
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Navigation;Other;60;1
+hwyr5z1l;2023-06-13 00:00:00+00:00;phone;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1620;27
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1500;14
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1440;13
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;720;7
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Mobility;Other;480;18
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Mobility;Other;420;3
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;8
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;360;1
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Social Media;Social Media;240;4
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;240;6
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;240;9
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;4
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;System;Other;120;1
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;System;Other;60;4
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Navigation;Other;60;7
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Photos;Entertainment;60;1
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Navigation;Other;60;5
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Video;Entertainment;60;1
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;System;Other;60;5
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1620;27
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1500;14
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1440;13
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;720;7
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Mobility;Other;480;18
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Mobility;Other;420;3
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;8
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;360;1
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Social Media;Social Media;240;4
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;240;6
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;240;9
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;4
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;System;Other;120;1
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;System;Other;60;4
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Navigation;Other;60;7
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Photos;Entertainment;60;1
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Navigation;Other;60;5
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;Video;Entertainment;60;1
+hwyr5z1l;2023-06-14 00:00:00+00:00;phone;app;ios;System;Other;60;5
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1860;14
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;780;15
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;300;5
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;240;3
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;2
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;2
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;4
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;System;Other;120;5
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;System;Other;120;6
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;System;Other;60;4
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;2
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;Photos;Entertainment;60;5
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;2
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-06-15 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;5520;32
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1620;23
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Navigation;Other;1200;1
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;840;9
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;840;17
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Mobility;Other;660;14
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;540;15
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Photos;Entertainment;360;4
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;8
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Social Media;Social Media;240;5
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;System;Other;180;3
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Finance;Other;180;3
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Navigation;Other;120;2
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;System;Other;120;7
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;3
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;2
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;System;Other;60;3
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;60;1
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Translation;Other;60;1
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;60;1
+hwyr5z1l;2023-06-16 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;120;2
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Mobility;Other;120;3
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Sport;Other;120;1
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;System;Other;120;1
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;4
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;60;1
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;System;Other;60;3
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;2
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;4380;51
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1860;34
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1140;7
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Navigation;Other;480;9
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;System;Other;300;19
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Photos;Entertainment;180;4
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;4
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;180;5
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Video;Entertainment;180;1
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;System;Other;180;4
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Sport;Other;120;1
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Food;Other;120;1
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-06-17 00:00:00+00:00;phone;app;ios;News;Entertainment;120;6
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3180;5
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;2340;4
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1800;19
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1200;14
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Photos;Entertainment;900;9
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Mobility;Other;900;15
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Mobility;Other;840;11
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;720;14
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;System;Other;420;9
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;360;4
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Navigation;Other;360;4
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;2
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;300;4
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;240;5
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;240;3
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;System;Other;180;1
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Social Media;Social Media;180;1
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Social Media;Social Media;180;1
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;120;2
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;System;Other;120;4
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;120;1
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;120;1
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;System;Other;60;2
+hwyr5z1l;2023-06-18 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;2
+hwyr5z1l;2023-06-19 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;60;1
+hwyr5z1l;2023-06-19 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;1
+hwyr5z1l;2023-06-19 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;120;5
+hwyr5z1l;2023-06-19 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;120;10
+hwyr5z1l;2023-06-19 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-06-19 00:00:00+00:00;phone;app;ios;Mobility;Other;60;5
+hwyr5z1l;2023-06-19 00:00:00+00:00;phone;app;ios;Mobility;Other;60;4
+hwyr5z1l;2023-06-19 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-06-19 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-06-19 00:00:00+00:00;phone;app;ios;Photos;Entertainment;60;1
+hwyr5z1l;2023-06-19 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;1500;5
+hwyr5z1l;2023-06-19 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;420;3
+hwyr5z1l;2023-06-19 00:00:00+00:00;tablet;app;ios;Mail;Communication ICT;300;1
+hwyr5z1l;2023-06-19 00:00:00+00:00;tablet;app;ios;Video;Entertainment;180;1
+hwyr5z1l;2023-06-19 00:00:00+00:00;tablet;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-06-20 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;240;1
+hwyr5z1l;2023-06-20 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;480;34
+hwyr5z1l;2023-06-20 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;1
+hwyr5z1l;2023-06-20 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;1
+hwyr5z1l;2023-06-20 00:00:00+00:00;phone;app;ios;Mobility;Other;60;7
+hwyr5z1l;2023-06-20 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;60;1
+hwyr5z1l;2023-06-20 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-06-20 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;60;1
+hwyr5z1l;2023-06-20 00:00:00+00:00;phone;app;ios;Sport;Other;60;3
+hwyr5z1l;2023-06-20 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-06-20 00:00:00+00:00;tablet;app;ios;Video;Entertainment;4560;1
+hwyr5z1l;2023-06-20 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;2100;18
+hwyr5z1l;2023-06-20 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;720;3
+hwyr5z1l;2023-06-20 00:00:00+00:00;tablet;app;ios;Food;Other;240;1
+hwyr5z1l;2023-06-20 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;180;2
+hwyr5z1l;2023-06-20 00:00:00+00:00;tablet;app;ios;Shopping ;Entertainment;60;2
+hwyr5z1l;2023-06-20 00:00:00+00:00;tablet;app;ios;Mobility;Other;60;4
+hwyr5z1l;2023-06-21 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;120;9
+hwyr5z1l;2023-06-21 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-06-21 00:00:00+00:00;phone;app;ios;Mobility;Other;60;3
+hwyr5z1l;2023-06-21 00:00:00+00:00;phone;app;ios;Mobility;Other;60;6
+hwyr5z1l;2023-06-21 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-06-21 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-06-21 00:00:00+00:00;phone;app;ios;Mobility;Other;60;2
+hwyr5z1l;2023-06-21 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;180;1
+hwyr5z1l;2023-06-21 00:00:00+00:00;tablet;app;ios;Video;Entertainment;1560;2
+hwyr5z1l;2023-06-21 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;360;4
+hwyr5z1l;2023-06-21 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;300;1
+hwyr5z1l;2023-06-21 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;180;21
+hwyr5z1l;2023-06-21 00:00:00+00:00;tablet;app;ios;Music / Audio;Entertainment;120;7
+hwyr5z1l;2023-06-22 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;2
+hwyr5z1l;2023-06-22 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;2
+hwyr5z1l;2023-06-22 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;phone;app;ios;Mobility;Other;60;6
+hwyr5z1l;2023-06-22 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;60;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;phone;app;ios;Delivery;Other;60;2
+hwyr5z1l;2023-06-22 00:00:00+00:00;phone;app;ios;Food;Other;60;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;180;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;21300;13
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;1260;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;900;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;Mail;Communication ICT;240;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;System;Other;420;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;120;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;News;Entertainment;120;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;Shopping ;Entertainment;60;3
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;System;Other;60;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;News;Entertainment;60;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;60;1
+hwyr5z1l;2023-06-22 00:00:00+00:00;tablet;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-06-23 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;3
+hwyr5z1l;2023-06-23 00:00:00+00:00;phone;app;ios;Mobility;Other;240;10
+hwyr5z1l;2023-06-23 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-06-23 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;60;3
+hwyr5z1l;2023-06-23 00:00:00+00:00;phone;app;ios;Mobility;Other;60;5
+hwyr5z1l;2023-06-23 00:00:00+00:00;phone;app;ios;News;Entertainment;60;2
+hwyr5z1l;2023-06-23 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;240;2
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;12000;48
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;6000;6
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Video;Entertainment;2340;1
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;1800;4
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Shopping ;Entertainment;540;1
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;420;7
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Mail;Communication ICT;360;4
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;360;1
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Music / Audio;Entertainment;300;14
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Shopping ;Entertainment;120;1
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Video;Entertainment;60;1
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;System;Other;60;1
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Delivery;Other;60;1
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;2160;40
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Video;Entertainment;1500;1
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;240;1
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Music / Audio;Entertainment;120;3
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Delivery;Other;60;2
+hwyr5z1l;2023-06-23 00:00:00+00:00;tablet;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-06-24 00:00:00+00:00;phone;app;ios;Mobility;Other;540;19
+hwyr5z1l;2023-06-24 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;4
+hwyr5z1l;2023-06-24 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;2
+hwyr5z1l;2023-06-24 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;2
+hwyr5z1l;2023-06-24 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;60;1
+hwyr5z1l;2023-06-24 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-06-24 00:00:00+00:00;phone;app;ios;Navigation;Other;60;1
+hwyr5z1l;2023-06-24 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;120;1
+hwyr5z1l;2023-06-24 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;2160;40
+hwyr5z1l;2023-06-24 00:00:00+00:00;tablet;app;ios;Video;Entertainment;1500;1
+hwyr5z1l;2023-06-24 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;240;1
+hwyr5z1l;2023-06-24 00:00:00+00:00;tablet;app;ios;Music / Audio;Entertainment;60;3
+hwyr5z1l;2023-06-24 00:00:00+00:00;tablet;app;ios;Delivery;Other;60;2
+hwyr5z1l;2023-06-24 00:00:00+00:00;tablet;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-06-25 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;240;1
+hwyr5z1l;2023-06-25 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;1
+hwyr5z1l;2023-06-25 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;1
+hwyr5z1l;2023-06-25 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;60;1
+hwyr5z1l;2023-06-25 00:00:00+00:00;tablet;app;ios;Video;Entertainment;1080;1
+hwyr5z1l;2023-06-25 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;660;15
+hwyr5z1l;2023-06-25 00:00:00+00:00;tablet;app;ios;Music / Audio;Entertainment;360;7
+hwyr5z1l;2023-06-25 00:00:00+00:00;tablet;app;ios;Notes;Study / Work ICT;60;1
+hwyr5z1l;2023-06-25 00:00:00+00:00;tablet;app;ios;News;Entertainment;60;1
+hwyr5z1l;2023-06-26 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;180;8
+hwyr5z1l;2023-06-26 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;1
+hwyr5z1l;2023-06-26 00:00:00+00:00;phone;app;ios;Mobility;Other;60;5
+hwyr5z1l;2023-06-26 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;60;5
+hwyr5z1l;2023-06-26 00:00:00+00:00;phone;app;ios;Mobility;Other;60;2
+hwyr5z1l;2023-06-26 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;1
+hwyr5z1l;2023-06-26 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-06-26 00:00:00+00:00;phone;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-06-26 00:00:00+00:00;phone;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-06-26 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;180;1
+hwyr5z1l;2023-06-26 00:00:00+00:00;tablet;app;ios;Video;Entertainment;3180;18
+hwyr5z1l;2023-06-26 00:00:00+00:00;tablet;app;ios;Video;Entertainment;2880;1
+hwyr5z1l;2023-06-26 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;1980;4
+hwyr5z1l;2023-06-26 00:00:00+00:00;tablet;app;ios;News;Entertainment;60;1
+hwyr5z1l;2023-06-27 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;240;1
+hwyr5z1l;2023-06-27 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;1
+hwyr5z1l;2023-06-27 00:00:00+00:00;phone;app;ios;Mobility;Other;120;4
+hwyr5z1l;2023-06-27 00:00:00+00:00;phone;app;ios;Social Media;Social Media;120;6
+hwyr5z1l;2023-06-27 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;60;7
+hwyr5z1l;2023-06-27 00:00:00+00:00;phone;app;ios;Photos;Entertainment;60;1
+hwyr5z1l;2023-06-27 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-06-27 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-06-27 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-06-27 00:00:00+00:00;tablet;app;ios;Video;Entertainment;1200;1
+hwyr5z1l;2023-06-27 00:00:00+00:00;tablet;app;ios;Video;Entertainment;1140;1
+hwyr5z1l;2023-06-27 00:00:00+00:00;tablet;app;ios;Shopping ;Entertainment;240;1
+hwyr5z1l;2023-06-27 00:00:00+00:00;tablet;app;ios;Shopping ;Entertainment;180;1
+hwyr5z1l;2023-06-28 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;6
+hwyr5z1l;2023-06-28 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;180;1
+hwyr5z1l;2023-06-28 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;1
+hwyr5z1l;2023-06-28 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;120;8
+hwyr5z1l;2023-06-28 00:00:00+00:00;phone;app;ios;Mobility;Other;60;4
+hwyr5z1l;2023-06-28 00:00:00+00:00;phone;app;ios;Mobility;Other;60;5
+hwyr5z1l;2023-06-28 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-06-28 00:00:00+00:00;phone;app;ios;Mobility;Other;60;3
+hwyr5z1l;2023-06-28 00:00:00+00:00;tablet;app;ios;Video;Entertainment;8220;1
+hwyr5z1l;2023-06-28 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;2880;2
+hwyr5z1l;2023-06-28 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;600;1
+hwyr5z1l;2023-06-28 00:00:00+00:00;tablet;app;ios;Research;Study / Work ICT;180;1
+hwyr5z1l;2023-06-28 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-06-28 00:00:00+00:00;tablet;app;ios;Photos;Entertainment;60;1
+hwyr5z1l;2023-06-28 00:00:00+00:00;tablet;app;ios;Mail;Communication ICT;60;3
+hwyr5z1l;2023-06-29 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;2
+hwyr5z1l;2023-06-29 00:00:00+00:00;phone;app;ios;Mobility;Other;180;10
+hwyr5z1l;2023-06-29 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;120;5
+hwyr5z1l;2023-06-29 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;2
+hwyr5z1l;2023-06-29 00:00:00+00:00;phone;app;ios;Navigation;Other;60;4
+hwyr5z1l;2023-06-29 00:00:00+00:00;phone;app;ios;Health / Wellbeing;Other;60;1
+hwyr5z1l;2023-06-29 00:00:00+00:00;phone;app;ios;Photos;Entertainment;60;3
+hwyr5z1l;2023-06-29 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;11520;8
+hwyr5z1l;2023-06-29 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;540;1
+hwyr5z1l;2023-06-29 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;480;1
+hwyr5z1l;2023-06-29 00:00:00+00:00;tablet;app;ios;Video;Entertainment;360;2
+hwyr5z1l;2023-06-29 00:00:00+00:00;tablet;app;ios;System;Other;60;1
+hwyr5z1l;2023-06-29 00:00:00+00:00;tablet;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-06-30 00:00:00+00:00;phone;app;ios;Mobility;Other;240;18
+hwyr5z1l;2023-06-30 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;180;1
+hwyr5z1l;2023-06-30 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;180;2
+hwyr5z1l;2023-06-30 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;11
+hwyr5z1l;2023-06-30 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-06-30 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;3
+hwyr5z1l;2023-06-30 00:00:00+00:00;phone;app;ios;Mobility;Other;60;4
+hwyr5z1l;2023-06-30 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-06-30 00:00:00+00:00;tablet;app;ios;Mail;Communication ICT;6240;5
+hwyr5z1l;2023-06-30 00:00:00+00:00;tablet;app;ios;Video;Entertainment;3180;2
+hwyr5z1l;2023-06-30 00:00:00+00:00;tablet;app;ios;Video;Entertainment;1560;1
+hwyr5z1l;2023-06-30 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;1260;9
+hwyr5z1l;2023-06-30 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;960;1
+hwyr5z1l;2023-06-30 00:00:00+00:00;tablet;app;ios;Music / Audio;Entertainment;960;1
+hwyr5z1l;2023-06-30 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;360;1
+hwyr5z1l;2023-06-30 00:00:00+00:00;tablet;app;ios;Notes;Study / Work ICT;240;1
+hwyr5z1l;2023-06-30 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;120;2
+hwyr5z1l;2023-06-30 00:00:00+00:00;tablet;app;ios;System;Other;60;1
+hwyr5z1l;2023-07-01 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;360;1
+hwyr5z1l;2023-07-01 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;120;1
+hwyr5z1l;2023-07-01 00:00:00+00:00;phone;app;ios;Navigation;Other;60;2
+hwyr5z1l;2023-07-01 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-07-01 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-07-01 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;60;1
+hwyr5z1l;2023-07-01 00:00:00+00:00;phone;app;ios;System;Other;60;3
+hwyr5z1l;2023-07-01 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-07-01 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-07-01 00:00:00+00:00;phone;app;ios;System;Other;60;4
+hwyr5z1l;2023-07-01 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;2340;4
+hwyr5z1l;2023-07-01 00:00:00+00:00;tablet;app;ios;Video;Entertainment;2340;1
+hwyr5z1l;2023-07-01 00:00:00+00:00;tablet;app;ios;Research;Study / Work ICT;300;1
+hwyr5z1l;2023-07-01 00:00:00+00:00;tablet;app;ios;Mail;Communication ICT;120;2
+hwyr5z1l;2023-07-01 00:00:00+00:00;tablet;app;ios;Music / Audio;Entertainment;60;3
+hwyr5z1l;2023-07-02 00:00:00+00:00;phone;app;ios;System;Other;360;25
+hwyr5z1l;2023-07-02 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;120;7
+hwyr5z1l;2023-07-02 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;120;1
+hwyr5z1l;2023-07-02 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;60;1
+hwyr5z1l;2023-07-02 00:00:00+00:00;phone;app;ios;System;Other;60;4
+hwyr5z1l;2023-07-02 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-07-02 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;60;1
+hwyr5z1l;2023-07-02 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-07-02 00:00:00+00:00;tablet;app;ios;Video;Entertainment;1440;5
+hwyr5z1l;2023-07-02 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;480;14
+hwyr5z1l;2023-07-02 00:00:00+00:00;tablet;app;ios;Mobility;Other;60;1
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1500;25
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Video;Entertainment;1260;1
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;780;2
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Navigation;Other;300;1
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;240;14
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;240;1
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Mobility;Other;240;10
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Mobility;Other;120;2
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;60;1
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;System;Other;60;3
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;60;1
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;Research;Study / Work ICT;60;1
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;System;Other;60;4
+hwyr5z1l;2023-07-03 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;900;9
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;600;3
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;540;15
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;Mobility;Other;480;23
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;420;22
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;360;1
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;120;2
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;120;1
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;2
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;News;Entertainment;60;6
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;System;Other;60;4
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;Contract;Other;60;1
+hwyr5z1l;2023-07-04 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1080;12
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;900;19
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;780;3
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;Photos;Entertainment;660;9
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;360;1
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;System;Other;240;9
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;180;1
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;2
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;Navigation;Other;120;4
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;Real Estate;Other;120;2
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;System;Other;60;8
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;60;2
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;News;Entertainment;60;7
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;Navigation;Other;60;1
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-07-05 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;60;1
+hwyr5z1l;2023-07-05 00:00:00+00:00;tablet;app;ios;Video;Entertainment;4620;1
+hwyr5z1l;2023-07-05 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;1020;1
+hwyr5z1l;2023-07-05 00:00:00+00:00;tablet;app;ios;System;Other;120;11
+hwyr5z1l;2023-07-06 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;720;20
+hwyr5z1l;2023-07-06 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;360;26
+hwyr5z1l;2023-07-06 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;4
+hwyr5z1l;2023-07-06 00:00:00+00:00;phone;app;ios;Social Media;Social Media;180;4
+hwyr5z1l;2023-07-06 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;180;1
+hwyr5z1l;2023-07-06 00:00:00+00:00;phone;app;ios;Navigation;Other;120;6
+hwyr5z1l;2023-07-06 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;60;1
+hwyr5z1l;2023-07-06 00:00:00+00:00;phone;app;ios;Food;Other;60;1
+hwyr5z1l;2023-07-06 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;1
+hwyr5z1l;2023-07-06 00:00:00+00:00;tablet;app;ios;Video;Entertainment;3900;4
+hwyr5z1l;2023-07-06 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;960;1
+hwyr5z1l;2023-07-06 00:00:00+00:00;tablet;app;ios;Mail;Communication ICT;60;2
+hwyr5z1l;2023-07-06 00:00:00+00:00;tablet;app;ios;System;Other;60;3
+hwyr5z1l;2023-07-06 00:00:00+00:00;tablet;app;ios;Notes;Study / Work ICT;2760;8
+hwyr5z1l;2023-07-06 00:00:00+00:00;tablet;app;ios;Web Browser / Search Machine ;Other;2640;1
+hwyr5z1l;2023-07-06 00:00:00+00:00;tablet;app;ios;Shopping ;Entertainment;1200;1
+hwyr5z1l;2023-07-06 00:00:00+00:00;tablet;app;ios;Study / Learning;Study / Work ICT;1020;1
+hwyr5z1l;2023-07-06 00:00:00+00:00;tablet;app;ios;System;Other;1020;5
+hwyr5z1l;2023-07-06 00:00:00+00:00;tablet;app;ios;Mail;Communication ICT;180;1
+hwyr5z1l;2023-07-06 00:00:00+00:00;tablet;app;ios;Messenger;Communication ICT;60;1
+hwyr5z1l;2023-07-07 00:00:00+00:00;phone;app;ios;Food;Other;780;7
+hwyr5z1l;2023-07-07 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;600;29
+hwyr5z1l;2023-07-07 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;480;28
+hwyr5z1l;2023-07-07 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;240;2
+hwyr5z1l;2023-07-07 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;240;1
+hwyr5z1l;2023-07-07 00:00:00+00:00;phone;app;ios;Finance;Other;240;1
+hwyr5z1l;2023-07-07 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;1
+hwyr5z1l;2023-07-07 00:00:00+00:00;phone;app;ios;Mobility;Other;120;7
+hwyr5z1l;2023-07-07 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;6
+hwyr5z1l;2023-07-07 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-07-07 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;2
+hwyr5z1l;2023-07-07 00:00:00+00:00;phone;app;ios;System;Other;60;1
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;480;12
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;360;5
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;2
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;300;2
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;Mobility;Other;300;14
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;News;Entertainment;240;20
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;Photos;Entertainment;180;4
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;120;1
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;System;Other;120;3
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;Mobility;Other;60;4
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;Navigation;Other;60;2
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;1
+hwyr5z1l;2023-07-08 00:00:00+00:00;phone;app;ios;Finance;Other;60;1
+hwyr5z1l;2023-07-09 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;660;
+hwyr5z1l;2023-07-09 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;360;
+hwyr5z1l;2023-07-09 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;180;
+hwyr5z1l;2023-07-09 00:00:00+00:00;phone;app;ios;System;Other;120;
+hwyr5z1l;2023-07-10 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1560;
+hwyr5z1l;2023-07-10 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;720;
+hwyr5z1l;2023-07-10 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;300;
+hwyr5z1l;2023-07-10 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;240;
+hwyr5z1l;2023-07-10 00:00:00+00:00;phone;app;ios;Vacation / Free Time / Events;Other;240;
+hwyr5z1l;2023-07-10 00:00:00+00:00;phone;app;ios;Mobility;Other;180;
+hwyr5z1l;2023-07-10 00:00:00+00:00;phone;app;ios;Navigation;Other;120;
+hwyr5z1l;2023-07-10 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;120;
+hwyr5z1l;2023-07-10 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;120;
+hwyr5z1l;2023-07-10 00:00:00+00:00;phone;app;ios;System;Other;60;
+hwyr5z1l;2023-07-10 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;
+hwyr5z1l;2023-07-10 00:00:00+00:00;phone;app;ios;Finance;Other;60;
+hwyr5z1l;2023-07-11 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;1080;
+hwyr5z1l;2023-07-11 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;660;
+hwyr5z1l;2023-07-11 00:00:00+00:00;phone;app;ios;Vacation / Free Time / Events;Other;420;
+hwyr5z1l;2023-07-11 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;
+hwyr5z1l;2023-07-11 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;300;
+hwyr5z1l;2023-07-11 00:00:00+00:00;phone;app;ios;Mobility;Other;240;
+hwyr5z1l;2023-07-11 00:00:00+00:00;phone;app;ios;Vacation / Free Time / Events;Other;180;
+hwyr5z1l;2023-07-11 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;120;
+hwyr5z1l;2023-07-11 00:00:00+00:00;phone;app;ios;Photos;Entertainment;120;
+hwyr5z1l;2023-07-11 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;60;
+hwyr5z1l;2023-07-11 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;
+hwyr5z1l;2023-07-11 00:00:00+00:00;phone;app;ios;Vacation / Free Time / Events;Other;60;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Mobility;Other;1020;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;780;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Mobility;Other;660;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Photos;Entertainment;540;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;540;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;420;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Navigation;Other;360;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Vacation / Free Time / Events;Other;240;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Vacation / Free Time / Events;Other;240;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;120;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;120;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Mobility;Other;60;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Mobility;Other;60;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;
+hwyr5z1l;2023-07-12 00:00:00+00:00;phone;app;ios;Finance;Other;60;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;840;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;600;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;480;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;Vacation / Free Time / Events;Other;480;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;Mobility;Other;300;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;300;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;Finance;Other;240;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;Real Estate;Other;180;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;Mobility;Other;60;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;Mobility;Other;60;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;News;Entertainment;60;
+hwyr5z1l;2023-07-13 00:00:00+00:00;phone;app;ios;Delivery;Other;60;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;600;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;540;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;System;Other;240;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;240;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;Mobility;Other;240;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;Delivery;Other;180;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;180;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;120;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;System;Other;60;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;Photos;Entertainment;60;
+hwyr5z1l;2023-07-14 00:00:00+00:00;phone;app;ios;Reading / Books;Entertainment;60;
+hwyr5z1l;2023-07-15 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1320;
+hwyr5z1l;2023-07-15 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;720;
+hwyr5z1l;2023-07-15 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;420;
+hwyr5z1l;2023-07-15 00:00:00+00:00;phone;app;ios;Navigation;Other;360;
+hwyr5z1l;2023-07-15 00:00:00+00:00;phone;app;ios;System;Other;360;
+hwyr5z1l;2023-07-15 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;300;
+hwyr5z1l;2023-07-15 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;300;
+hwyr5z1l;2023-07-15 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;
+hwyr5z1l;2023-07-15 00:00:00+00:00;phone;app;ios;Delivery;Other;240;
+hwyr5z1l;2023-07-15 00:00:00+00:00;phone;app;ios;Vacation / Free Time / Events;Other;120;
+hwyr5z1l;2023-07-15 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;Finance;Other;1080;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;840;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;Social Media;Social Media;240;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;Real Estate;Other;240;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;180;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;Food;Other;120;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;120;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;System;Other;60;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;Finance;Other;60;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;3000;
+hwyr5z1l;2023-07-16 00:00:00+00:00;phone;app;ios;Photos;Entertainment;1140;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Food;Other;840;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;840;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;480;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;480;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;360;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Mobility;Other;240;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;180;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;120;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Navigation;Other;60;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Navigation;Other;60;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Mobility;Other;60;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;News;Entertainment;60;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Mobility;Other;60;
+hwyr5z1l;2023-07-17 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;
+hwyr5z1l;2023-07-18 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;720;
+hwyr5z1l;2023-07-18 00:00:00+00:00;phone;app;ios;Study / Learning;Study / Work ICT;420;
+hwyr5z1l;2023-07-18 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;420;
+hwyr5z1l;2023-07-18 00:00:00+00:00;phone;app;ios;Mobility;Other;300;
+hwyr5z1l;2023-07-18 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;240;
+hwyr5z1l;2023-07-18 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;180;
+hwyr5z1l;2023-07-18 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;180;
+hwyr5z1l;2023-07-18 00:00:00+00:00;phone;app;ios;Delivery;Other;120;
+hwyr5z1l;2023-07-18 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;
+hwyr5z1l;2023-07-18 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;
+hwyr5z1l;2023-07-18 00:00:00+00:00;phone;app;ios;Food;Other;60;
+hwyr5z1l;2023-07-19 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;840;
+hwyr5z1l;2023-07-19 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;420;
+hwyr5z1l;2023-07-19 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;360;
+hwyr5z1l;2023-07-19 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;300;
+hwyr5z1l;2023-07-19 00:00:00+00:00;phone;app;ios;Photos;Entertainment;120;
+hwyr5z1l;2023-07-19 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;120;
+hwyr5z1l;2023-07-19 00:00:00+00:00;phone;app;ios;Mobility;Other;60;
+hwyr5z1l;2023-07-19 00:00:00+00:00;phone;app;ios;Mobility;Other;60;
+hwyr5z1l;2023-07-19 00:00:00+00:00;phone;app;ios;Food;Other;60;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;1800;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;540;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;420;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Navigation;Other;360;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Notes;Study / Work ICT;360;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;300;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Vacation / Free Time / Events;Other;180;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Mobility;Other;180;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Photos;Entertainment;120;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;60;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;News;Entertainment;60;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;System;Other;60;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;System;Other;60;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;
+hwyr5z1l;2023-07-20 00:00:00+00:00;phone;app;ios;Navigation;Other;60;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;1140;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;900;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;600;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Mail;Communication ICT;420;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;180;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;180;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;120;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Social Media;Social Media;60;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Mobility;Other;60;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Mobility;Other;60;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;
+hwyr5z1l;2023-07-21 00:00:00+00:00;phone;app;ios;Mobility;Other;60;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;Finance;Other;1800;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;Navigation;Other;900;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;Music / Audio;Entertainment;840;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;360;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;Web Browser / Search Machine ;Other;360;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;Finance;Other;240;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;180;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;Finance;Other;180;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;120;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;Messenger;Communication ICT;60;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;Video;Entertainment;60;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;News;Entertainment;60;
+hwyr5z1l;2023-07-22 00:00:00+00:00;phone;app;ios;Shopping ;Entertainment;60;
